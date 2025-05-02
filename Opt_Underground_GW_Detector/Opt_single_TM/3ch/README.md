@@ -21,7 +21,7 @@ NOTE1: run multiple times this algorithms to find the best minimum (with hh from
 NOTE2: you can also decomment in the main :
 
 ```
-         #pool = Pool(processes=6)
+        #pool = Pool(processes=6)
         #pool.map(foo, range(30))
 ```
 
