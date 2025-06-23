@@ -21,4 +21,4 @@ So my target signal is: dy(0) - dx(0)
 # How to use: 
 
 
-Run `Script1_CEB.py`, then `Script2_CEB.py` (how to run this particular script is showen in `Script2_CEB.sub`). Then `Script3_CEB.py` and finally `Script4_CEB.py` which is the actual optimization. `Script1_CEB.py`, `Script2_CEB.py` and `Script3_CEB.py` all generate the Fourier transform and make the Gaussian Process Regression to estimate correlations. 
+Run `Script1_CEB.py`, then `Script2_CEB.py` (how to run this particular script is showen in `Script2_CEB.sub`). Then `Script3_CEB.py` and finally `Script4_CEB.py` which is the actual optimization. `Script1_CEB.py`, `Script2_CEB.py` and `Script3_CEB.py` all generate the Fourier transform and make the Gaussian Process Regression to estimate correlations. Finaly, in the folder `Homogeneous_isotropic` there is a script to run an optimization in the case of isotropic and homogeneous seismic field.  
