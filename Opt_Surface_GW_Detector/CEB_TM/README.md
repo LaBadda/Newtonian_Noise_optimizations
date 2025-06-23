@@ -4,6 +4,7 @@ This folder contains the scripts to run the seismic sensor optimization that wer
 We consider: 
 
 Lx = L0 + dx(L0) - dx(0)
+
 Ly = L0 + dy(L0) - dy(0)
 
 where dy(L0) is the displacement caused at the end test mass and the dy(0) at the input one for y (and same for x).
